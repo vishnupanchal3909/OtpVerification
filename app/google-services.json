@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156056685017",
+    "project_id": "otpverification-ce7e3",
+    "storage_bucket": "otpverification-ce7e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156056685017:android:e928bfb8c7f69b9088f1c8",
+        "android_client_info": {
+          "package_name": "com.vishnu.otpverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156056685017-p1ocdc1iie4vje3kgnjob9j8slrotb8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDAx-LfRnFvoaAgGCCQzj5tWTlGjqi7o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156056685017-p1ocdc1iie4vje3kgnjob9j8slrotb8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
